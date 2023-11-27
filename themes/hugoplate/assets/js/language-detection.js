@@ -13,6 +13,10 @@ const isSwedishLanguage = userLanguage.includes("sv");
 if (isSwedishLanguage) {
   document.documentElement.lang = "sv-se"; // Set language to Swedish
   console.log('Language set to Swedish');
+  
+  // Get the current base URL
+  var baseUrl = window.location.origin + window.location.pathname.split('/').slice(0, -1).join('/') + '/';
+  
   if (window.location.pathname === "/") {
     window.location.pathname = "/sv/"; // Redirect to the Swedish homepage
   }
