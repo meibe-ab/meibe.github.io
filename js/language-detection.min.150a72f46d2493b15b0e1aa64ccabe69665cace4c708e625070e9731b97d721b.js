@@ -1,1 +1,0 @@
-function getUserLanguage(){const e=window.navigator.language||window.navigator.userLanguage;return e.toLowerCase()}const userLanguage=getUserLanguage(),isSwedishLanguage=userLanguage.includes("sv");isSwedishLanguage&&(document.documentElement.lang="sv-SE",console.log("Language set to Swedish"))

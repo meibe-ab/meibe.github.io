@@ -1,0 +1,13 @@
+################ English language ##################
+[en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 0
+
+################ Swedish language ##################
+[sv]
+languageName = "Sv"
+languageCode = "sv-se"
+contentDir = "content/swedish"
+weight = 1
