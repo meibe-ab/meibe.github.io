@@ -2,382 +2,382 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>meibe.github.io/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv-se"
-                href="/sv/"
+                href="meibe.github.io/sv/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/"
+                href="meibe.github.io/"
                 />
   </url><url>
-    <loc>/categories/application/</loc>
+    <loc>meibe.github.io/categories/application/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv-se"
-                href="/sv/categories/application/"
+                href="meibe.github.io/sv/categories/application/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/categories/application/"
+                href="meibe.github.io/categories/application/"
                 />
   </url><url>
-    <loc>/categories/architecture/</loc>
+    <loc>meibe.github.io/categories/architecture/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv-se"
-                href="/sv/categories/architecture/"
+                href="meibe.github.io/sv/categories/architecture/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/categories/architecture/"
+                href="meibe.github.io/categories/architecture/"
                 />
   </url><url>
-    <loc>/blog/</loc>
+    <loc>meibe.github.io/blog/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv-se"
-                href="/sv/blog/"
+                href="meibe.github.io/sv/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/blog/"
+                href="meibe.github.io/blog/"
                 />
   </url><url>
-    <loc>/categories/</loc>
+    <loc>meibe.github.io/categories/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv-se"
-                href="/sv/categories/"
+                href="meibe.github.io/sv/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/categories/"
+                href="meibe.github.io/categories/"
                 />
   </url><url>
-    <loc>/categories/data/</loc>
+    <loc>meibe.github.io/categories/data/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv-se"
-                href="/sv/categories/data/"
+                href="meibe.github.io/sv/categories/data/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/categories/data/"
+                href="meibe.github.io/categories/data/"
                 />
   </url><url>
-    <loc>/blog/post-1/</loc>
+    <loc>meibe.github.io/blog/post-1/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv-se"
-                href="/sv/blog/post-1/"
+                href="meibe.github.io/sv/blog/post-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/blog/post-1/"
+                href="meibe.github.io/blog/post-1/"
                 />
   </url><url>
-    <loc>/blog/post-2/</loc>
+    <loc>meibe.github.io/blog/post-2/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv-se"
-                href="/sv/blog/post-2/"
+                href="meibe.github.io/sv/blog/post-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/blog/post-2/"
+                href="meibe.github.io/blog/post-2/"
                 />
   </url><url>
-    <loc>/blog/post-3/</loc>
+    <loc>meibe.github.io/blog/post-3/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv-se"
-                href="/sv/blog/post-3/"
+                href="meibe.github.io/sv/blog/post-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/blog/post-3/"
+                href="meibe.github.io/blog/post-3/"
                 />
   </url><url>
-    <loc>/blog/post-4/</loc>
+    <loc>meibe.github.io/blog/post-4/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv-se"
-                href="/sv/blog/post-4/"
+                href="meibe.github.io/sv/blog/post-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/blog/post-4/"
+                href="meibe.github.io/blog/post-4/"
                 />
   </url><url>
-    <loc>/tags/nextjs/</loc>
+    <loc>meibe.github.io/tags/nextjs/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv-se"
-                href="/sv/tags/nextjs/"
+                href="meibe.github.io/sv/tags/nextjs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/nextjs/"
+                href="meibe.github.io/tags/nextjs/"
                 />
   </url><url>
-    <loc>/tags/silicon/</loc>
+    <loc>meibe.github.io/tags/silicon/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv-se"
-                href="/sv/tags/silicon/"
+                href="meibe.github.io/sv/tags/silicon/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/silicon/"
+                href="meibe.github.io/tags/silicon/"
                 />
   </url><url>
-    <loc>/tags/software/</loc>
+    <loc>meibe.github.io/tags/software/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv-se"
-                href="/sv/tags/software/"
+                href="meibe.github.io/sv/tags/software/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/software/"
+                href="meibe.github.io/tags/software/"
                 />
   </url><url>
-    <loc>/categories/software/</loc>
+    <loc>meibe.github.io/categories/software/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv-se"
-                href="/sv/categories/software/"
+                href="meibe.github.io/sv/categories/software/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/categories/software/"
+                href="meibe.github.io/categories/software/"
                 />
   </url><url>
-    <loc>/tags/</loc>
+    <loc>meibe.github.io/tags/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv-se"
-                href="/sv/tags/"
+                href="meibe.github.io/sv/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/"
+                href="meibe.github.io/tags/"
                 />
   </url><url>
-    <loc>/tags/tailwind/</loc>
+    <loc>meibe.github.io/tags/tailwind/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv-se"
-                href="/sv/tags/tailwind/"
+                href="meibe.github.io/sv/tags/tailwind/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/tailwind/"
+                href="meibe.github.io/tags/tailwind/"
                 />
   </url><url>
-    <loc>/tags/technology/</loc>
+    <loc>meibe.github.io/tags/technology/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv-se"
-                href="/sv/tags/technology/"
+                href="meibe.github.io/sv/tags/technology/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/technology/"
+                href="meibe.github.io/tags/technology/"
                 />
   </url><url>
-    <loc>/categories/technology/</loc>
+    <loc>meibe.github.io/categories/technology/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv-se"
-                href="/sv/categories/technology/"
+                href="meibe.github.io/sv/categories/technology/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/categories/technology/"
+                href="meibe.github.io/categories/technology/"
                 />
   </url><url>
-    <loc>/authors/</loc>
+    <loc>meibe.github.io/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv-se"
-                href="/sv/authors/"
+                href="meibe.github.io/sv/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/authors/"
+                href="meibe.github.io/authors/"
                 />
   </url><url>
-    <loc>/contact/</loc>
+    <loc>meibe.github.io/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv-se"
-                href="/sv/contact/"
+                href="meibe.github.io/sv/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/contact/"
+                href="meibe.github.io/contact/"
                 />
   </url><url>
-    <loc>/elements/</loc>
+    <loc>meibe.github.io/elements/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv-se"
-                href="/sv/elements/"
+                href="meibe.github.io/sv/elements/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/elements/"
+                href="meibe.github.io/elements/"
                 />
   </url><url>
-    <loc>/about/</loc>
+    <loc>meibe.github.io/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv-se"
-                href="/sv/about/"
+                href="meibe.github.io/sv/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/about/"
+                href="meibe.github.io/about/"
                 />
   </url><url>
-    <loc>/authors/john-doe/</loc>
+    <loc>meibe.github.io/authors/john-doe/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv-se"
-                href="/sv/authors/john-doe/"
+                href="meibe.github.io/sv/authors/john-doe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/authors/john-doe/"
+                href="meibe.github.io/authors/john-doe/"
                 />
   </url><url>
-    <loc>/pages/</loc>
+    <loc>meibe.github.io/pages/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv-se"
-                href="/sv/pages/"
+                href="meibe.github.io/sv/pages/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/pages/"
+                href="meibe.github.io/pages/"
                 />
   </url><url>
-    <loc>/pricing/pricing/</loc>
+    <loc>meibe.github.io/pricing/pricing/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv-se"
-                href="/sv/pricing/pricing/"
+                href="meibe.github.io/sv/pricing/pricing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/pricing/pricing/"
+                href="meibe.github.io/pricing/pricing/"
                 />
   </url><url>
-    <loc>/pricing/</loc>
+    <loc>meibe.github.io/pricing/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv-se"
-                href="/sv/pricing/"
+                href="meibe.github.io/sv/pricing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/pricing/"
+                href="meibe.github.io/pricing/"
                 />
   </url><url>
-    <loc>/privacy-policy/</loc>
+    <loc>meibe.github.io/privacy-policy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv-se"
-                href="/sv/privacy-policy/"
+                href="meibe.github.io/sv/privacy-policy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/privacy-policy/"
+                href="meibe.github.io/privacy-policy/"
                 />
   </url><url>
-    <loc>/authors/sam-wilson/</loc>
+    <loc>meibe.github.io/authors/sam-wilson/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv-se"
-                href="/sv/authors/sam-wilson/"
+                href="meibe.github.io/sv/authors/sam-wilson/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/authors/sam-wilson/"
+                href="meibe.github.io/authors/sam-wilson/"
                 />
   </url><url>
-    <loc>/sections/</loc>
+    <loc>meibe.github.io/sections/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv-se"
-                href="/sv/sections/"
+                href="meibe.github.io/sv/sections/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/sections/"
+                href="meibe.github.io/sections/"
                 />
   </url><url>
-    <loc>/authors/william-jacob/</loc>
+    <loc>meibe.github.io/authors/william-jacob/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv-se"
-                href="/sv/authors/william-jacob/"
+                href="meibe.github.io/sv/authors/william-jacob/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/authors/william-jacob/"
+                href="meibe.github.io/authors/william-jacob/"
                 />
   </url>
 </urlset>
