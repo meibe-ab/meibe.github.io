@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hey, I am John Doe! on Hugoplate</title>
-    <link>meibe.github.io/about/</link>
+    <link>https://meibe-ab.github.io/meibe.github.io/about/</link>
     <description>Recent content in Hey, I am John Doe! on Hugoplate</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="meibe.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://meibe-ab.github.io/meibe.github.io/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

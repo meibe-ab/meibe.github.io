@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technology on Hugoplate</title>
-    <link>meibe.github.io/sv/categories/technology/</link>
+    <link>https://meibe-ab.github.io/meibe.github.io/sv/categories/technology/</link>
     <description>Recent content in Technology on Hugoplate</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
-    <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate><atom:link href="meibe.github.io/sv/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate><atom:link href="https://meibe-ab.github.io/meibe.github.io/sv/categories/technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to build an Application with modern Technology</title>
-      <link>meibe.github.io/sv/blog/post-2/</link>
+      <link>https://meibe-ab.github.io/meibe.github.io/sv/blog/post-2/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
       
-      <guid>meibe.github.io/sv/blog/post-2/</guid>
+      <guid>https://meibe-ab.github.io/meibe.github.io/sv/blog/post-2/</guid>
       <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
     </item>
     

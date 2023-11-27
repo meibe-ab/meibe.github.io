@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pricings on Hugoplate</title>
-    <link>meibe.github.io/pricing/</link>
+    <link>https://meibe-ab.github.io/meibe.github.io/pricing/</link>
     <description>Recent content in Pricings on Hugoplate</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="meibe.github.io/pricing/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://meibe-ab.github.io/meibe.github.io/pricing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pricing</title>
-      <link>meibe.github.io/pricing/pricing/</link>
+      <link>https://meibe-ab.github.io/meibe.github.io/pricing/pricing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>meibe.github.io/pricing/pricing/</guid>
+      <guid>https://meibe-ab.github.io/meibe.github.io/pricing/pricing/</guid>
       <description>Free Plan$0/month
 Basic featuresUp to 2 projectsCommunity support&amp;lt;!</description>
     </item>
