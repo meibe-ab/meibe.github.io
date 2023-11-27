@@ -4,11 +4,7 @@ name: Deploy Hugo site to Pages
 on:
   # Runs on pushes targeting the default branch
   push:
-    branches:
-      - main
-
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
+    branches: ["main"]
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
@@ -16,20 +12,18 @@ permissions:
   pages: write
   id-token: write
 
-# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
-# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
-
-# Default to bash
-defaults:
-  run:
-    shell: bash
+# Environment variables available to all jobs and steps in this workflow
+env:
+  HUGO_ENV: production
+  HUGO_VERSION: "0.118.2"
+  GO_VERSION: "1.20.5"
+  NODE_VERSION: "18.15.0"
+  TINA_CLIENT_ID: ${{ vars.TINA_CLIENT_ID }}
+  TINA_TOKEN: ${{ vars.TINA_TOKEN }}
 
 jobs:
   # Build job
-    build:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
